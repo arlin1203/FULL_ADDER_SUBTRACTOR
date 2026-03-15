@@ -58,7 +58,7 @@ Compile and run the program.
 
 Generate the RTL schematic and save the logic diagram.
 
-Create nodes for inputs and outputs to generate the timing diagram.
+Create nodes for inputs  and outputs to generate the timing diagram.
 
 For different input combinations generate the timing diagram.
 
